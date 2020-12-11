@@ -1,6 +1,8 @@
 <html>
 <h1> 
 Test Manoj website, reading data from Azure SQL server Database
+	
+Test Manoj website, reading data from Azure SQL server Database services
 </h1>
 
 <?php
